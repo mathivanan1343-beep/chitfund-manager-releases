@@ -1,0 +1,10 @@
+{
+  "version": "1.0.8",
+  "versionCode": 9,
+  "releaseDate": "20 Nov 2026",
+  "releaseNotes": "• Security: release signing secured; updates now come from a dedicated releases channel\n• Includes everything in v1.0.7: professional redesign, encrypted backups, hashed PIN, staff roles, empty fresh install",
+  "downloadUrl": "https://github.com/mathivanan1343-beep/chitfund-manager-releases/releases/download/v1.0.8/ChitFund-Manager-Live.apk",
+  "localApkUrl": "/ChitFund-Manager-Live.apk",
+  "fileSize": 3428579,
+  "forceUpdate": false
+}
