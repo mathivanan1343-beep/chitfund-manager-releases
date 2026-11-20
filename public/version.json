@@ -1,10 +1,10 @@
 {
-  "version": "1.0.8",
-  "versionCode": 9,
+  "version": "1.0.9",
+  "versionCode": 10,
   "releaseDate": "20 Nov 2026",
-  "releaseNotes": "• Security: release signing secured; updates now come from a dedicated releases channel\n• Includes everything in v1.0.7: professional redesign, encrypted backups, hashed PIN, staff roles, empty fresh install",
-  "downloadUrl": "https://github.com/mathivanan1343-beep/chitfund-manager-releases/releases/download/v1.0.8/ChitFund-Manager-Live.apk",
+  "releaseNotes": "• Back button now goes to the previous screen; on Home it asks before logging out (no more sudden app close)\n• Daily auto-backup to Downloads/ChitFund — your data survives an app uninstall\n• New install asks: restore last backup or start new\n• One backup file per day (repeat backups replace it)\n• Staff & roles and accounts start clean; leftover sample data removed",
+  "downloadUrl": "https://github.com/mathivanan1343-beep/chitfund-manager-releases/releases/download/v1.0.9/ChitFund-Manager-Live.apk",
   "localApkUrl": "/ChitFund-Manager-Live.apk",
-  "fileSize": 3428579,
+  "fileSize": 3439117,
   "forceUpdate": false
 }
